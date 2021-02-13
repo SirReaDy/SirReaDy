@@ -2,7 +2,7 @@
 
 Hi, I'm Danny, a passionate self-taught Web Developer.
 
-- 🔭 I’m currently working on IPS Game WebSocket Application.
+- 🔭 I’m currently working on IPS Application to reproduce Rust Feedback system( https://rust.nolt.io )
 - 🌱 I’m currently learning Typescript.
 
 
