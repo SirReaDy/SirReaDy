@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Danny, a passionate self-taught Web Developer.
+Hi, I'm Danny, a passionate self-taught Sofware Developer.
 
 - 🔭 I’m currently working on IPS Application to reproduce Rust Feedback system( https://rust.nolt.io )
 - 🌱 I’m currently learning Typescript.
