@@ -1,53 +1,11 @@
 ### Hi there 👋
 
-Hi, I'm Danny, a passionate self-taught Sofware Developer.
+  [![SirReaDy's GitHub stats](https://github-stats-extended.vercel.app/api/?username=SirReaDy&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=SirReaDy's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=SirReaDy&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=SirReaDy's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
 
-- 🔭 I’m currently working on Rust Game Mod Development. 
-- 🌱 I’m currently learning Deep Learning AI.
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SirReaDy&show_icons=true&include_all_commits=true&theme=material-palenight&count_private=true" alt="SirReaDy's github stats" />
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26" />
-  </span>
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="26" height="26" />
-  </span>
-
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="26" height="26" />
-  </span>
- 
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-plain.svg" alt="gatsby" width="26" height="26" />
-  </span>
-    <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="26" height="26" />
-  </span>
-
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="26" height="26" />
-  </span>
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="26" height="26" />
-  </span>
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="26" height="26" />
-  </span>
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="26" height="26" />
-  </span>
-  <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="26" height="26" />
-  </span>
-  <span>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26" />
-  </span>
-    <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="26" height="26" />
-  </span>
-</p>
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=SirReaDy&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
