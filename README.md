@@ -6,7 +6,7 @@ I build open-source tools that make hard things simple. Two projects of mine:
 
 The new generation of sideloading: a free, open-source desktop app that installs SideStore and your own apps on iPhone and iPad with a free Apple ID, from Windows, macOS and Linux. Its whole engine, code signing included, is written in TypeScript, and every release is Sigstore-signed.
 
-🌐 [Website](https://ipaforge.github.io) · ⬇️ [Download](https://github.com/IPAForge/ipaforge/releases) · 💬 [Discord](https://discord.gg/C87DKmAWhr) · 🗺️ [Roadmap](https://github.com/IPAForge/ipaforge/blob/main/docs/roadmap.md)
+🌐 [ipaforge.com](https://ipaforge.com) · ⬇️ [Download](https://github.com/IPAForge/ipaforge/releases) · 💬 [Discord](https://discord.gg/C87DKmAWhr) · 🗺️ [Roadmap](https://github.com/IPAForge/ipaforge/blob/main/docs/roadmap.md)
 
 #### 🎮 [Big Brother Bot (B3) 2.0](https://github.com/SirReaDy/BigBrotherBot)
 
